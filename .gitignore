@@ -1,0 +1,21 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
