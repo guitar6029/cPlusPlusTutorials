@@ -19,4 +19,6 @@ int main(){
     for (int i = 0; i < cars_length; i++){
         cout << cars[i] << "\n";
     }
+
+    return 0;
 }
